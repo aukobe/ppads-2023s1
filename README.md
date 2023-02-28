@@ -28,7 +28,7 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 # Documentação
 
-Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://&lt;usuario&gt;.github.io/ppads-2023s1**.
+Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o seu conteúdo é publicado em **https://aukobe.github.io/ppads-2023s1**.
 
 
 # Releases
