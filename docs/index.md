@@ -27,7 +27,7 @@
 
 * Augusto Koshiyama Bento
 * Benjamim Kim
-* Aluno 3
+* Gabriel Moreira Cabral
 
 # Descrição do projeto
 
