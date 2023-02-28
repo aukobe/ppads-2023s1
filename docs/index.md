@@ -26,6 +26,7 @@
 # Autores
 
 * Augusto Koshiyama Bento
+* teste
 * Aluno 2
 * Aluno 3
 
