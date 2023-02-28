@@ -26,7 +26,7 @@
 # Autores
 
 * Augusto Koshiyama Bento
-* Aluno 2
+* Benjamim Kim
 * Aluno 3
 
 # Descrição do projeto
