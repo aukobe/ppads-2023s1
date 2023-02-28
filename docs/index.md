@@ -35,7 +35,7 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 # Diagrama de casos de uso
 
-![image](https://user-images.githubusercontent.com/100203154/221964960-bffb32c2-a586-475c-b40d-0a3ddb7b7c80.png)
+![image](https://user-images.githubusercontent.com/100203154/221965884-dc98e8f0-00c5-4c69-b65e-d448b39b5e80.png)
 
 # Descrição dos casos de uso
 
