@@ -50,6 +50,8 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 ![image](https://user-images.githubusercontent.com/100203154/222214674-5f858a27-f48a-47f0-ab0c-f4a0738896d5.png)
 ![image](https://user-images.githubusercontent.com/100203154/222214755-cd9714fd-2207-4bb3-b27d-21d4ea3ecadf.png)
 ![image](https://user-images.githubusercontent.com/100203154/222214819-24f62965-6b56-4404-a2a0-4a432c40a56b.png)
+![image](https://user-images.githubusercontent.com/100203154/222232860-75199beb-8e1d-41d4-be65-cfa9068d913a.png)
+
 
 # Modelo de domínio
 
