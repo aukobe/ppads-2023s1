@@ -55,7 +55,7 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 # Modelo de domínio
 
-file:///C:/Users/Augusto/Downloads/Especificação%20de%20Caso%20de%20Uso%20-%20Escola%20Infinito.pdf
+[Especificação de Caso de Uso - Escola Infinito.pdf](https://github.com/aukobe/ppads-2023s1/files/10864474/Especificacao.de.Caso.de.Uso.-.Escola.Infinito.pdf)
 
 # Decisões de arquitetura
 
