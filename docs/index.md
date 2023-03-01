@@ -43,7 +43,13 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 # Protótipos de tela
 
-*&lt;Protótipos de tela&gt;*
+![image](https://user-images.githubusercontent.com/100203154/222213463-3ccecd91-36a0-48c8-a3dd-3f87dd1ca172.png)
+![image](https://user-images.githubusercontent.com/100203154/222214119-f0428168-943b-4267-8bc3-28ca1f57b4c3.png)
+![image](https://user-images.githubusercontent.com/100203154/222214314-de7eedfd-e540-4608-98d1-411f24a3feff.png)
+![image](https://user-images.githubusercontent.com/100203154/222214358-2c1c8ce4-3258-4534-8eb4-3fa58f93c45b.png)
+![image](https://user-images.githubusercontent.com/100203154/222214674-5f858a27-f48a-47f0-ab0c-f4a0738896d5.png)
+![image](https://user-images.githubusercontent.com/100203154/222214755-cd9714fd-2207-4bb3-b27d-21d4ea3ecadf.png)
+![image](https://user-images.githubusercontent.com/100203154/222214819-24f62965-6b56-4404-a2a0-4a432c40a56b.png)
 
 # Modelo de domínio
 
