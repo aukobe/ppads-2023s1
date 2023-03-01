@@ -20,7 +20,7 @@ A seguir estão os passos sugeridos para a preparação do seu grupo no início 
 
 # Projeto: Sistema de Presenças da Escola Infinito
 
-# Grupo: 3devs
+# Grupo: 3DEVS
 
 # Descrição
 
