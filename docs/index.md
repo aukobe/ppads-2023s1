@@ -47,7 +47,7 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 # Modelo de domínio
 
-*&lt;Modelo de domínio&gt;*
+![Modelo de Domínio - Escola Infinitio  drawio](https://user-images.githubusercontent.com/100203154/222029510-328b1428-51df-44a0-959b-598b5c7a9b62.png)
 
 # Decisões de arquitetura
 
