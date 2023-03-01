@@ -24,7 +24,7 @@ A seguir estão os passos sugeridos para a preparação do seu grupo no início 
 
 # Descrição
 
-A Escola Infinito necessita de um sistema para controlar as presenças de seus alunos, pois a operação ainda é realizada totalmente em papel e nós da <>, temos a responsabilidade de criar esse sistema de presença, de acordo com o que os gestores da escola gostariam de obter com esta aplicação.
+A Escola Infinito necessita de um sistema para controlar as presenças de seus alunos, pois a operação ainda é realizada totalmente em papel e nós da 3DEVS, temos a responsabilidade de criar esse sistema de presença, de acordo com o que os gestores da escola gostariam de obter com esta aplicação.
 
 # Documentação
 
