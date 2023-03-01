@@ -39,7 +39,7 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 # Descrição dos casos de uso
 
-![image](https://user-images.githubusercontent.com/100203154/222238574-7fe4c99f-1006-410e-9125-e9adb093189d.png)
+[Especificação de Caso de Uso - Escola Infinito.pdf](https://github.com/aukobe/ppads-2023s1/files/10864498/Especificacao.de.Caso.de.Uso.-.Escola.Infinito.pdf)
 
 # Protótipos de tela
 
@@ -55,7 +55,7 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 # Modelo de domínio
 
-[Especificação de Caso de Uso - Escola Infinito.pdf](https://github.com/aukobe/ppads-2023s1/files/10864474/Especificacao.de.Caso.de.Uso.-.Escola.Infinito.pdf)
+![Modelo de Domínio - Escola Infinitio  drawio](https://user-images.githubusercontent.com/100203154/222239477-5e74136c-267e-4a76-a6fe-7146524fd080.png)
 
 # Decisões de arquitetura
 
