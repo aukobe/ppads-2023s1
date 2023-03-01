@@ -39,7 +39,7 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 # Descrição dos casos de uso
 
-*&lt;Descrição dos casos de uso&gt;*
+![image](https://user-images.githubusercontent.com/100203154/222238574-7fe4c99f-1006-410e-9125-e9adb093189d.png)
 
 # Protótipos de tela
 
@@ -55,7 +55,7 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 # Modelo de domínio
 
-![Modelo de Domínio - Escola Infinitio  drawio](https://user-images.githubusercontent.com/100203154/222029510-328b1428-51df-44a0-959b-598b5c7a9b62.png)
+file:///C:/Users/Augusto/Downloads/Especificação%20de%20Caso%20de%20Uso%20-%20Escola%20Infinito.pdf
 
 # Decisões de arquitetura
 
