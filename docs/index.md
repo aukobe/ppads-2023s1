@@ -67,7 +67,7 @@ No nosso projeto vamos utilizar as tecnologias HTML, CSS e Javascript para a rea
 
 ### Registrar Faltas
 
-![image](https://user-images.githubusercontent.com/100203154/223427207-cb0f4b6f-4237-478b-9922-f546846e8ef3.png)
+![image](https://user-images.githubusercontent.com/100203154/223459278-e4ac5a80-d616-48d6-94a7-f30df9bea529.png)
 
 ### Gerar Relatórios
 
