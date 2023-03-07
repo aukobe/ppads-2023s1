@@ -79,6 +79,9 @@ No nosso projeto vamos utilizar as tecnologias HTML, CSS e Javascript para a rea
 
 ## Diagrama de Componentes
 
+![Diagrama de Componentes drawio (1)](https://user-images.githubusercontent.com/100203154/223541537-364aa261-c43d-4f74-9522-2beb1521940a.png)
+
+
 # Diagrama de implantação
 
 *&lt;Diagrama de implantação&gt;*
