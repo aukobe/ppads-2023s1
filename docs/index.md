@@ -77,6 +77,8 @@ No nosso projeto vamos utilizar as tecnologias HTML, CSS e Javascript para a rea
 
 ![image](https://user-images.githubusercontent.com/100203154/223458338-7d8e7d14-b1ed-4a5a-8f8a-11adea7cb0e5.png)
 
+## Digrama de Componentes
+
 # Diagrama de implantação
 
 *&lt;Diagrama de implantação&gt;*
