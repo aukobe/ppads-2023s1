@@ -59,7 +59,15 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 # Decisões de arquitetura
 
+## Tecnologias
+
 No nosso projeto vamos utilizar as tecnologias HTML, CSS e Javascript para a realização do nosso front-end, e para o nosso back-end teríamos em mente a utilização da linguagem Python usando o framework Django. E todo o sistema estará conectado ao banco de dados mySQL para o armazenamento das informações.
+
+## Diagramas de Sequência
+
+### Registrar Faltas
+
+![image](https://user-images.githubusercontent.com/100203154/223426317-749d1860-f382-4907-a42f-3b4e813c604a.png)
 
 # Diagrama de implantação
 
