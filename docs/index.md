@@ -84,7 +84,7 @@ No nosso projeto vamos utilizar as tecnologias HTML, CSS e Javascript para a rea
 
 # Diagrama de implantação
 
-*&lt;Diagrama de implantação&gt;*
+![Diagrama de Implantação - Lista de Chamada drawio](https://user-images.githubusercontent.com/100203154/223553595-0f07cb7f-524f-4583-a545-6808441aac72.png)
 
 # Referências
 
