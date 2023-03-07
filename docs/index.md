@@ -69,6 +69,10 @@ No nosso projeto vamos utilizar as tecnologias HTML, CSS e Javascript para a rea
 
 ![image](https://user-images.githubusercontent.com/100203154/223427207-cb0f4b6f-4237-478b-9922-f546846e8ef3.png)
 
+### Gerar Relatórios
+
+![image](https://user-images.githubusercontent.com/100203154/223437392-17878b72-fd18-4a40-9102-c4bf6e863e28.png)
+
 
 # Diagrama de implantação
 
