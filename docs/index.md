@@ -73,6 +73,9 @@ No nosso projeto vamos utilizar as tecnologias HTML, CSS e Javascript para a rea
 
 ![image](https://user-images.githubusercontent.com/100203154/223437392-17878b72-fd18-4a40-9102-c4bf6e863e28.png)
 
+### Enviar Notificação sobre Excesso de Faltas
+
+![image](https://user-images.githubusercontent.com/100203154/223458338-7d8e7d14-b1ed-4a5a-8f8a-11adea7cb0e5.png)
 
 # Diagrama de implantação
 
