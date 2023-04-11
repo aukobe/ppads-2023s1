@@ -61,7 +61,7 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 ## Tecnologias
 
-No nosso projeto vamos utilizar as tecnologias HTML, CSS e Javascript para a realização do nosso front-end, e para o nosso back-end teríamos em mente a utilização da linguagem Python usando o framework Django. E todo o sistema estará conectado ao banco de dados mySQL para o armazenamento das informações.
+No nosso projeto vamos utilizar as tecnologias ReactJS e NodeJS para fazer um desenvolvimento full-stack (front-end e back-end). E todo o sistema estará conectado ao banco de dados mySQL para o armazenamento das informações.
 
 ## Diagramas de Sequência
 
