@@ -61,7 +61,7 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 
 ## Tecnologias
 
-No nosso projeto vamos utilizar as tecnologias ReactJS e NodeJS para fazer um desenvolvimento full-stack (front-end e back-end). E todo o sistema estará conectado ao banco de dados mySQL para o armazenamento das informações.
+No nosso projeto vamos utilizar as tecnologias NodeJS e Express-EJS para fazer um desenvolvimento full-stack (front-end e back-end). E todo o sistema estará conectado ao banco de dados mongoDB para o armazenamento das informações.
 
 ## Diagramas de Sequência
 
