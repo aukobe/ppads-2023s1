@@ -34,4 +34,5 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 # Releases
 
 07/03 - Realização das Definições das Arquiteturas (Tecnologias, Diagramas de Sequência e Diagrama de Componentes) e do Diagrama de Implantação.
+
 11/04 - Criação do Banco de Dados e Desenvolvimento do CRUD
