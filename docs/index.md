@@ -85,7 +85,7 @@ No nosso projeto vamos utilizar as tecnologias NodeJS e Express-EJS para fazer u
 
 # Diagrama de implantação
 
-![Diagrama de Implantação - Lista de Chamada drawio](https://user-images.githubusercontent.com/100203154/223553595-0f07cb7f-524f-4583-a545-6808441aac72.png)
+![Diagrama de Implantação - Lista de Chamada drawio (1)](https://user-images.githubusercontent.com/100203154/231879482-07a6ea0e-1e72-4248-8077-fc791580cc9b.png)
 
 # Referências
 
