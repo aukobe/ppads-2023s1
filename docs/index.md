@@ -47,10 +47,11 @@ A Escola Infinito necessita de um sistema para controlar as presenças de seus a
 ![image](https://user-images.githubusercontent.com/100203154/222235770-524bf522-8234-44d3-a96f-f8c5ff1c767b.png)
 ![image](https://user-images.githubusercontent.com/100203154/222214314-de7eedfd-e540-4608-98d1-411f24a3feff.png)
 ![image](https://user-images.githubusercontent.com/100203154/222214358-2c1c8ce4-3258-4534-8eb4-3fa58f93c45b.png)
-![image](https://user-images.githubusercontent.com/100203154/222214674-5f858a27-f48a-47f0-ab0c-f4a0738896d5.png)
-![image](https://user-images.githubusercontent.com/100203154/222214755-cd9714fd-2207-4bb3-b27d-21d4ea3ecadf.png)
-![image](https://user-images.githubusercontent.com/100203154/222214819-24f62965-6b56-4404-a2a0-4a432c40a56b.png)
-![image](https://user-images.githubusercontent.com/100203154/222232860-75199beb-8e1d-41d4-be65-cfa9068d913a.png)
+![web 5](https://user-images.githubusercontent.com/100203154/231879036-2fad5971-6ecc-45dd-ac8e-29ac62199f26.png)
+![web 6](https://user-images.githubusercontent.com/100203154/231879100-dd337274-d938-4cb2-b638-198260439551.png)
+![web 9](https://user-images.githubusercontent.com/100203154/231879255-41add3a6-29b0-41f9-9880-6b9d04690102.png)
+![web 10](https://user-images.githubusercontent.com/100203154/231879345-8d56bdb0-2bd5-4562-a54c-6fab4081f2c8.png)
+
 
 
 # Modelo de domínio
