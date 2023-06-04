@@ -1,0 +1,155 @@
+<div class="d-flex justify-content-between flex-wrap flex-md nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+  <h1 class="h2"><%= aluno.firstName  %> <%= aluno.lastName  %></h1>
+  <div class="btn-toolbar mb-2 mb-md 0">
+  </div>
+</div>
+
+<div class="col py-3">
+
+  <div class="row">
+    <div class="col">
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a href="/">Lista da Turma</a></li>
+          <li class="breadcrumb-item active"><%= aluno.firstName  %></li>
+        </ol>
+      </nav>
+    </div>
+    <div class="col text-end fw-lighter">
+      <b>Último Update: <%= new Date(aluno.updatedAt) %> </b>
+      <br/>
+      <b>ID do Usuário:</b> <%= aluno._id %>
+    </div>
+  </div>
+
+</div>
+
+<ul class="list-group py-5">
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Nome:</b></div>
+      <div class="col"><%= aluno.firstName %> <%= aluno.lastName %></div>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Matrícula:</b></div>
+      <div class="col"><%= aluno.tel %></div>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Email do Responsável:</b></div>
+      <div class="col"><%= aluno.email %></div>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Observação:</b></div>
+      <div class="col"><%= aluno.details %></div>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Criação:</b></div>
+      <div class="col"><%= aluno.createdAt %></div>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Última Modificação:</b></div>
+      <div class="col"><%= aluno.updatedAt %></div>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Faltas em Matemática:</b></div>
+      <div class="col"><%= aluno.faltasMat %> / 30 ( <%= ((30 - aluno.faltasMat) / 30 * 100).toFixed(2) %> %)</div>
+      <% if (aluno.faltasMat / 30 > 0.2) { %>
+        <div class="col">
+          <a href="/enviarNotificacao" class="btn btn-danger">Enviar Notificação aos Responsáveis</a>
+        </div>
+      <% } %>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Faltas em História:</b></div>
+      <div class="col"><%= aluno.faltasHist %> / 20 ( <%= ((20 - aluno.faltasHist) / 20 * 100).toFixed(2) %> %)</div>
+      <% if (aluno.faltasHist / 20 > 0.2) { %>
+        <div class="col">
+          <a href="/enviarNotificacao" class="btn btn-danger">Enviar Notificação</a>
+        </div>
+      <% } %>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Faltas em Português:</b></div>
+      <div class="col"><%= aluno.faltasPort %> / 30 ( <%= ((30 - aluno.faltasPort) / 30 * 100).toFixed(2) %> %)</div>
+      <% if (aluno.faltasPort / 30 > 0.2) { %>
+        <div class="col">
+          <a href="/enviarNotificacao" class="btn btn-danger">Enviar Notificação</a>
+        </div>
+      <% } %>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Faltas em Biologia:</b></div>
+      <div class="col"><%= aluno.faltasBio %> / 20 ( <%= ((20 - aluno.faltasBio) / 20 * 100).toFixed(2) %> %)</div>
+      <% if (aluno.faltasBio / 20 > 0.2) { %>
+        <div class="col">
+          <a href="/enviarNotificacao" class="btn btn-danger">Enviar Notificação</a>
+        </div>
+      <% } %>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Faltas em Química:</b></div>
+      <div class="col"><%= aluno.faltasQuim %> / 20 ( <%= ((20 - aluno.faltasQuim) / 20 * 100).toFixed(2) %> %)</div>
+      <% if (aluno.faltasQuim / 20 > 0.2) { %>
+        <div class="col">
+          <a href="/enviarNotificacao" class="btn btn-danger">Enviar Notificação</a>
+        </div>
+      <% } %>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Faltas em Filosofia:</b></div>
+      <div class="col"><%= aluno.faltasFilo %> / 10 ( <%= ((10 - aluno.faltasFilo) / 10 * 100).toFixed(2) %> %)</div>
+      <% if (aluno.faltasFilo / 10 > 0.2) { %>
+        <div class="col">
+          <a href="/enviarNotificacao/<%= aluno._id %>" class="btn btn-danger">Enviar Notificação</a>
+        </div>
+      <% } %>
+    </div>
+  </li>
+
+  <li class="list-group-item"> 
+    <div class="row">
+      <div class="col" style="max-width: 140px"> <b>Faltas em Física:</b></div>
+      <div class="col"><%= aluno.faltasFis %> / 20 ( <%= ((20 - aluno.faltasFis) / 20 * 100).toFixed(2) %> %)</div>
+      <% if (aluno.faltasFis / 20 > 0.2) { %>
+        <div class="col">
+          <a href="/enviarNotificacao" class="btn btn-danger">Enviar Notificação</a>
+        </div>
+      <% } %>
+    </div>
+  </li>
+
+</ul>
